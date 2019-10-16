@@ -2,7 +2,7 @@
 
 **Instructor:** Patricia Steenland
 
-**Developers:** Alleanna Clark, Aishah Mahmood, Monica Wilkinson
+**Developers:** Alleanna Clark, Aishah Mahmud, Monica Wilkinson
 
 Data science module for UC Berkeley course COLWRIT-R4B.
 
